@@ -1,7 +1,7 @@
 ### Olá, eu sou a Vanágila 👋
 
 
-- 🔭 Sou estudante de front-end na Kenzie Academy Brasil
+- 🔭 Desenvolvedora front-end
 
 <div>
   <a href="https://github.com/vanagila">
