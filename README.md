@@ -1,7 +1,7 @@
 ### Olá, eu sou a Vanágila 👋
 
 
-- 💻 Desenvolvedora front-end
+- 💻 Desenvolvedora front-end e estudante de Engenharia de Software
 
 <div>
   <a href="https://github.com/vanagila">
